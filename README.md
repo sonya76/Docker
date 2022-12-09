@@ -47,10 +47,7 @@ Changer le **service** `mysql` en `mariadb`
 
 L'image de **mariadb** sera `mariadb:10.6`
 
-Poster sur votre **fork git** ,le **Dockerfile** et que le **docker-compose.yml** dans un répertoire **app-nodejs**. 
-
-
-
+Poster sur votre **fork git** ,le **Dockerfile** et que le **docker-compose.yml** dans un répertoire **app-nodejs**.
 
 ## Git
 
@@ -69,11 +66,9 @@ Si vous avez des questions ouvrer des **issues** sur ce dépôt et non sur votre
 
 Votre **fork** doit avoir les répertoires et fichiers suivant :
 
-```
 |- app-nodejs
       |- Dockerfile
 |- url.txt
 |- todo-app
       |- Dockerfile
       |- docker-compose.yml
-```
